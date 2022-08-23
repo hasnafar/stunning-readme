@@ -14,17 +14,7 @@ const questions = [
       {
         type: 'input',
         name: 'description1',
-        message: 'What was your motivation? Why did you build this project?',
-      },
-      {
-        type: 'input',
-        name: 'description2',
-        message: 'What problem does it solve?',
-      },
-      {
-        type: 'input',
-        name: 'description3',
-        message: 'What did you learn?',
+        message: 'What was your motivation? Why did you build this project? What problem does it solve?',
       },
       {
         type: 'input',

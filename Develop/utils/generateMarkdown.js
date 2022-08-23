@@ -42,15 +42,12 @@ function generateMarkdown(data) {
   ## Description:
 
   ${data.description1}
-  ${data.description2}
-  ${data.description3}
-
 
   ## Table of Contents:
   ### * [License](#License)
   ### * [Installation](#installation)
   ### * [Usage](#usage)
-  ### * [Contribution Guidelines](#contributing)
+  ### * [Contribution Guidelines](#contribution-guidelines)
   ### * [Tests](#Tests)
   ### * [Questions](#Questions)
 
