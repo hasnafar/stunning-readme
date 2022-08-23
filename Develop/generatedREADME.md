@@ -1,39 +1,39 @@
 
-  # Readme Generator
+  # Generate ReadMe
   ## Description:
 
-  a b c
-  d
-  e
+  To generate a readme from user input
+  Generates a dynamic readme
+  inquire and fs
 
 
   ## Table of Contents:
   ### [License](#license)
   ### [Installation](#installation)
   ### [Usage](#usage)
-  ### [Contributors](#contributing)
+  ### [Contribution Guidelines](#contributing)
   ### [Tests](#tests)
   ### [Questions](#questions)
 
   ## License
-
-  ### This application uses MIT
+  ### This application uses the MIT license
   ### ![GitHub License](https://www.channelfutures.com/files/2017/04/3_0.png)
+  ### Link: https://choosealicense.com/licenses/mit;
 
   ## Installation:
-  f
+  Using node
 
   ## Usage:
-  g
+  Run using node and answer the prompts as shown
 
-  ## Credits:
-  
+  ## Contribution Guidelines:
+  Please use Github repo link under the Questions tab
 
   ## Test Instructions:
-  f
+  x
+
 
   ## Questions:
-
   ### For any queries contact me at
   ### Github: https://github.com/hasnafar
   ### or

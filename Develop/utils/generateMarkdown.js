@@ -18,8 +18,17 @@ function renderLicenseBadge(license) {
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {}
+function renderLicenseLink(license) {
+  var link='';
+  if(license==="MIT")
+    link='https://choosealicense.com/licenses/mit';
+  else if(license==='Apache')
+   link='https://www.apache.org/licenses/LICENSE-2.0';
+  else if(license==="GPL")
+    link='https://www.gnu.org/licenses/gpl-3.0.en.html';
 
+  return link;
+}
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
@@ -41,13 +50,14 @@ function generateMarkdown(data) {
   ### [License](#license)
   ### [Installation](#installation)
   ### [Usage](#usage)
-  ### [Contributors](#contributing)
+  ### [Contribution Guidelines](#contributing)
   ### [Tests](#tests)
   ### [Questions](#questions)
 
   ## License
-  ### This application uses ${data.License}
+  ### This application uses the ${data.License} license
   ### ${renderLicenseBadge(data.License)}
+  ### Link: ${renderLicenseLink(data.License)};
 
   ## Installation:
   ${data.Installation}
@@ -55,7 +65,7 @@ function generateMarkdown(data) {
   ## Usage:
   ${data.Usage}
 
-  ## Credits:
+  ## Contribution Guidelines:
   ${data.Contributing}
 
   ## Test Instructions:
