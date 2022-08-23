@@ -8,12 +8,12 @@
 
 
   ## Table of Contents:
-  ### [License](#License)
-  ### [Installation](#installation)
-  ### [Usage](#usage)
-  ### [Contribution Guidelines](#contributing)
-  ### [Tests](#Tests)
-  ### [Questions](#Questions)
+  ### * [License](#License)
+  ### * [Installation](#installation)
+  ### * [Usage](#usage)
+  ### * [Contribution Guidelines](#contributing)
+  ### * [Tests](#Tests)
+  ### * [Questions](#Questions)
 
   ## License
   ### This application uses the MIT license
@@ -35,7 +35,7 @@
 
   ## Questions
   ### For any queries contact me at
-  ### Github: https://github.com/hasnafar
+  ### Github: https://github.com/j
   ### or
-  ### Email: hasnafarrukh@gmail.com
+  ### Email: k
 

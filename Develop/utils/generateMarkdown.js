@@ -47,12 +47,12 @@ function generateMarkdown(data) {
 
 
   ## Table of Contents:
-  ### [License](#License)
-  ### [Installation](#installation)
-  ### [Usage](#usage)
-  ### [Contribution Guidelines](#contributing)
-  ### [Tests](#Tests)
-  ### [Questions](#Questions)
+  ### * [License](#License)
+  ### * [Installation](#installation)
+  ### * [Usage](#usage)
+  ### * [Contribution Guidelines](#contributing)
+  ### * [Tests](#Tests)
+  ### * [Questions](#Questions)
 
   ## License
   ### This application uses the ${data.License} license
