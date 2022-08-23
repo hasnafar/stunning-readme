@@ -8,32 +8,32 @@
 
 
   ## Table of Contents:
-  ### [License](#license)
-  ### [Installation](#installation)
-  ### [Usage](#usage)
-  ### [Contribution Guidelines](#contributing)
-  ### [Tests](#tests)
-  ### [Questions](#questions)
+  ### [License](#License)
+  ### [Installation](#Installation)
+  ### [Usage](#Usage)
+  ### [Contribution Guidelines](#Contributing)
+  ### [Tests](#Tests)
+  ### [Questions](#Questions)
 
   ## License
   ### This application uses the MIT license
   ### ![GitHub License](https://www.channelfutures.com/files/2017/04/3_0.png)
   ### Link: https://choosealicense.com/licenses/mit;
 
-  ## Installation:
+  ## Installation
   Using node
 
-  ## Usage:
+  ## Usage
   Run using node and answer the prompts as shown
 
-  ## Contribution Guidelines:
+  ## Contribution Guidelines
   Please use Github repo link under the Questions tab
 
-  ## Test Instructions:
+  ## Test Instructions
   x
 
 
-  ## Questions:
+  ## Questions
   ### For any queries contact me at
   ### Github: https://github.com/hasnafar
   ### or
