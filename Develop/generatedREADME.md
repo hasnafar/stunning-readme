@@ -1,10 +1,10 @@
 
-  # Generate README
+  # Readme Generator
   ## Description:
 
-  Building a professional readme using user input
-  Allows a dynamic creation of readme
-  How to use node file system and write functions
+  a b c
+  d
+  e
 
 
   ## Table of Contents:
@@ -15,23 +15,25 @@
   ### [Tests](#tests)
   ### [Questions](#questions)
 
-  ##License
+  ## License
+
+  ### This application uses MIT
+  ### ![GitHub License](https://www.channelfutures.com/files/2017/04/3_0.png)
 
   ## Installation:
-  no idea
+  f
 
   ## Usage:
-  ok
+  g
 
   ## Credits:
-  ok
+  
 
   ## Test Instructions:
-  ok
+  f
 
-  ## License:
+  ## Questions:
 
-  ##Questions:
   ### For any queries contact me at
   ### Github: https://github.com/hasnafar
   ### or

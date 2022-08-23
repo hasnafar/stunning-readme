@@ -38,9 +38,10 @@ const questions = [
       },
 
       {
-        type: 'input',
+        type: 'list',
         name: 'License',
-        message: 'Let other developers know what they can and cannot do with your project.',
+        message: 'Which license does this application use?',
+        choices: ['MIT', 'GPL', 'Apache'],
       },
       {
         type: 'input',
