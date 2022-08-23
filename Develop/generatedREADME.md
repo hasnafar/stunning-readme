@@ -1,17 +1,17 @@
 
-  # Generate ReadMe
+  # a
   ## Description:
 
-  To generate a readme from user input
-  Generates a dynamic readme
-  inquire and fs
+  b
+  c
+  d
 
 
   ## Table of Contents:
   ### [License](#License)
-  ### [Installation](#Installation)
-  ### [Usage](#Usage)
-  ### [Contribution Guidelines](#Contributing)
+  ### [Installation](#installation)
+  ### [Usage](#usage)
+  ### [Contribution Guidelines](#contributing)
   ### [Tests](#Tests)
   ### [Questions](#Questions)
 
@@ -21,16 +21,16 @@
   ### Link: https://choosealicense.com/licenses/mit;
 
   ## Installation
-  Using node
+  e
 
   ## Usage
-  Run using node and answer the prompts as shown
+  f
 
   ## Contribution Guidelines
-  Please use Github repo link under the Questions tab
+  g
 
-  ## Test Instructions
-  x
+  ## Tests
+  h
 
 
   ## Questions

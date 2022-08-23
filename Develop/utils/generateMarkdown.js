@@ -47,32 +47,32 @@ function generateMarkdown(data) {
 
 
   ## Table of Contents:
-  ### [License](#license)
+  ### [License](#License)
   ### [Installation](#installation)
   ### [Usage](#usage)
   ### [Contribution Guidelines](#contributing)
-  ### [Tests](#tests)
-  ### [Questions](#questions)
+  ### [Tests](#Tests)
+  ### [Questions](#Questions)
 
   ## License
   ### This application uses the ${data.License} license
   ### ${renderLicenseBadge(data.License)}
   ### Link: ${renderLicenseLink(data.License)};
 
-  ## Installation:
+  ## Installation
   ${data.Installation}
 
-  ## Usage:
+  ## Usage
   ${data.Usage}
 
-  ## Contribution Guidelines:
+  ## Contribution Guidelines
   ${data.Contributing}
 
-  ## Test Instructions:
+  ## Tests
   ${data.Tests}
 
 
-  ## Questions:
+  ## Questions
   ### For any queries contact me at
   ### Github: https://github.com/${data.userName}
   ### or
